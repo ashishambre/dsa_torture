@@ -1,5 +1,5 @@
 ## Index
 | Sr. No. | Problem |
 |---------|---------|
-|   01| [Count Index](./CountDigits.java)|
+|   01| [Count Digits](./CountDigits.java)|
 
